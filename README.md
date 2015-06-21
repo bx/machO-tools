@@ -23,3 +23,5 @@ http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/ — ELF 
 http://darling.dolezel.info/en/Darling — Darling project for Mach-O emulation on Linux
 
 https://github.com/shinh/maloader -- Basic linux userland Mach-O loader
+
+www.newosxbook.com/articles/DYLD.html -- Details on DYLD
