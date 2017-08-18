@@ -3,8 +3,8 @@ machO-tools
 
 
 This is me trying to keep a list of Mach-O Resources I recommend until I setup a blog
-
-http://developer.apple.com/library/mac/#documentation/developertools/conceptual/MachORuntime/Reference/reference.html — Apple’s Mach-O reference
+https://github.com/aidansteele/osx-abi-macho-file-format-reference
+ Mach-O reference
 
 http://networkpx.blogspot.com/2009/09/about-lcdyldinfoonly-command.html — Exploration of relocation (binding) commands in Mach-O
 
